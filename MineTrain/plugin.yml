@@ -1,7 +1,7 @@
 main: fr.dariusmtn.minetrain.Main
-version: b0.1
-name: MineTrain
-author: Slaymd
+version: b0.2
+name: MineTrainReloaded
+author: hatty163
 commands:
   minetrain:
     description: MineTrain main command.
